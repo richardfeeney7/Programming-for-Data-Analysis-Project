@@ -9,9 +9,8 @@
 # Introduction
 
 ### Project Outline And Objectives
-<div align="justify"> For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python.
+<div align="justify"> For this project I must create a data set by simulating a real-world phenomenon of my choosing. I can pick any phenomenon I wish that take in the following four points : 
 </div>
-<br>
 <div align="justify">
 1. Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.<br>
 2. Investigate the types of variables involved, their likely distributions, and their relationships with each other.<br>
@@ -28,9 +27,7 @@
 4. Once in the correct location type Jupyter Lab or Jupyter Notebook into the command like. This will open a web server where you can access the files. Depending on the settings this might open Internet Explorer, I would recommend closing that web page and use the web address that you can see in the command line. <br>
 5. When you open the web server and can view my project file, open the <u><b><i>.ipynb</i></b></u> document to view the project. <br><br>
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
-<br><br>
-
-<p align ="center"><img src="images/CLI.JPG" alt="Command Line" width="600" height="300" title="CLI"/></p>
+<br>
 </div>
 <hr>
 
