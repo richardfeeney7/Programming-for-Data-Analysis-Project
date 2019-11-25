@@ -11,6 +11,7 @@
 ### Project Outline And Objectives
 <div align="justify"> For this project I must create a data set by simulating a real-world phenomenon of my choosing. I can pick any phenomenon I wish that take in the following four points : 
 </div>
+<br>
 <div align="justify">
 1. Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.<br>
 2. Investigate the types of variables involved, their likely distributions, and their relationships with each other.<br>
