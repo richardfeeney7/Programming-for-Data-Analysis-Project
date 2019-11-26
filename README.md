@@ -35,6 +35,8 @@
 
 ### Biobliography
 <div align="justify">
-
+1. Independent.ie. (2019). College will cost an average of €12,171 for students living away from home as experts share tips for big savings - Independent.ie. [online] Available at: https://www.independent.ie/irish-news/education/going-to-college/college-will-cost-an-average-of-12171-for-students-living-away-from-home-as-experts-share-tips-for-big-savings-38247571.html [Accessed 26 Nov. 2019].<br>
+2. The Irish Times. (2019). Families who cannot afford university should consider ‘regional options’ - Minister. [online] Available at: https://www.irishtimes.com/news/education/families-who-cannot-afford-university-should-consider-regional-options-minister-1.3985290 [Accessed 26 Nov. 2019].<br>
+3. Balearesint.net. (2019). EXAM RESULTS AT BALEARES INTERNATIONAL COLLEGE. [online] Available at: https://balearesint.net/news/2019/exam-results-at-baleares-international-college [Accessed 26 Nov. 2019].<br>
 </div>
 <hr>
