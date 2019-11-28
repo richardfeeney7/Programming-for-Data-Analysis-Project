@@ -38,5 +38,11 @@
 1. Independent.ie. (2019). College will cost an average of €12,171 for students living away from home as experts share tips for big savings - Independent.ie. [online] Available at: https://www.independent.ie/irish-news/education/going-to-college/college-will-cost-an-average-of-12171-for-students-living-away-from-home-as-experts-share-tips-for-big-savings-38247571.html [Accessed 26 Nov. 2019].<br>
 2. The Irish Times. (2019). Families who cannot afford university should consider ‘regional options’ - Minister. [online] Available at: https://www.irishtimes.com/news/education/families-who-cannot-afford-university-should-consider-regional-options-minister-1.3985290 [Accessed 26 Nov. 2019].<br>
 3. Balearesint.net. (2019). EXAM RESULTS AT BALEARES INTERNATIONAL COLLEGE. [online] Available at: https://balearesint.net/news/2019/exam-results-at-baleares-international-college [Accessed 26 Nov. 2019].<br>
+4. Docs.scipy.org. (2019). numpy.concatenate — NumPy v1.17 Manual. [online] Available at: https://docs.scipy.org/doc/numpy/reference/generated/numpy.concatenate.html [Accessed 27 Nov. 2019].<br>
+5. Docs.scipy.org. (2019). numpy.random.uniform — NumPy v1.15 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.uniform.html [Accessed 27 Nov. 2019].<br>
+6. Lagrange.univ-lyon1.fr. (2019). numpy.vectorize — NumPy v1.11 Manual. [online] Available at: http://lagrange.univ-lyon1.fr/docs/numpy/1.11.0/reference/generated/numpy.vectorize.html [Accessed 27 Nov. 2019].<br>
+7. GeeksforGeeks. (2019). Python String | replace() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-string-replace/ [Accessed 27 Nov. 2019].<br>
+8. W3schools.com. (2019). Python Conditions. [online] Available at: https://www.w3schools.com/python/python_conditions.asp [Accessed 27 Nov. 2019].<br>
+9. GeeksforGeeks. (2019). Different ways to create Pandas Dataframe - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 27 Nov. 2019].
 </div>
 <hr>
