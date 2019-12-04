@@ -43,6 +43,9 @@
 6. Lagrange.univ-lyon1.fr. (2019). numpy.vectorize — NumPy v1.11 Manual. [online] Available at: http://lagrange.univ-lyon1.fr/docs/numpy/1.11.0/reference/generated/numpy.vectorize.html [Accessed 27 Nov. 2019].<br>
 7. GeeksforGeeks. (2019). Python String | replace() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-string-replace/ [Accessed 27 Nov. 2019].<br>
 8. W3schools.com. (2019). Python Conditions. [online] Available at: https://www.w3schools.com/python/python_conditions.asp [Accessed 27 Nov. 2019].<br>
-9. GeeksforGeeks. (2019). Different ways to create Pandas Dataframe - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 27 Nov. 2019].
+9. GeeksforGeeks. (2019). Different ways to create Pandas Dataframe - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 27 Nov. 2019].<br>
+10. Cso.ie. (2019). Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-wamii/womenandmeninireland2016/education/ [Accessed 4 Dec. 2019].<br>
+11. Cso.ie. (2019). Level of Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-cp10esil/p10esil/le/ [Accessed 4 Dec. 2019].<br>
+12. Nelson, V. (2019). Is Your College Student Investing Enough Time Studying?. [online] College Parent Central. Available at: https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/ [Accessed 4 Dec. 2019].<br>
 </div>
 <hr>
