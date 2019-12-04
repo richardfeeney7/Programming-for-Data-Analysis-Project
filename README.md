@@ -8,6 +8,8 @@
 
 # Introduction
 
+Please note that I have used Plotly's Python graphing library to create interactive, publication-quality graphs. If the notebook file is run from Github it will not display all of the graphs. I recommand downloading the notebook or visit https://nbviewer.jupyter.org/github/richardfeeney7/Programming-for-Data-Analysis-Project/blob/dcd48d26e6c65c162b53e20849ac47d556b7ff3b/%20Programming-for-Data-Analysis-Project.ipynb to view the ptoject or download the files and run on your own mchine. Also with regards the tables within the notebook, because I have used plotly ypu have the ability to move the columns around if you wanted to see specific information side by side. 
+
 ### Project Outline And Objectives
 <div align="justify"> For this project I must create a data set by simulating a real-world phenomenon of my choosing. I can pick any phenomenon I wish that take in the following four points : 
 </div>
