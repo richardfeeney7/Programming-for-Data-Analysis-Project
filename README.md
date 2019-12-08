@@ -49,5 +49,6 @@ Please note that I have used Plotly's Python graphing library to create interact
 10. Cso.ie. (2019). Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-wamii/womenandmeninireland2016/education/ [Accessed 4 Dec. 2019].<br>
 11. Cso.ie. (2019). Level of Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-cp10esil/p10esil/le/ [Accessed 4 Dec. 2019].<br>
 12. Nelson, V. (2019). Is Your College Student Investing Enough Time Studying?. [online] College Parent Central. Available at: https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/ [Accessed 4 Dec. 2019].<br>
+13. Higher Education Authority. (2019). Student Numbers in Ireland Top 225,000 | Higher Education Authority. [online] Available at: https://hea.ie/2018/01/31/student-numbers-in-ireland-top-225000/ [Accessed 8 Dec. 2019].<br>
 </div>
 <hr>
