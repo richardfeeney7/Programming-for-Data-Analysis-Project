@@ -32,23 +32,3 @@ Please note that I have used Plotly's Python graphing library to create interact
 6. See the below photo of steps that I took, please note that your machine and downloads might be in a different location. 
 <br>
 </div>
-<hr>
-
-
-### Biobliography
-<div align="justify">
-1. Independent.ie. (2019). College will cost an average of €12,171 for students living away from home as experts share tips for big savings - Independent.ie. [online] Available at: https://www.independent.ie/irish-news/education/going-to-college/college-will-cost-an-average-of-12171-for-students-living-away-from-home-as-experts-share-tips-for-big-savings-38247571.html [Accessed 26 Nov. 2019].<br>
-2. The Irish Times. (2019). Families who cannot afford university should consider ‘regional options’ - Minister. [online] Available at: https://www.irishtimes.com/news/education/families-who-cannot-afford-university-should-consider-regional-options-minister-1.3985290 [Accessed 26 Nov. 2019].<br>
-3. Balearesint.net. (2019). EXAM RESULTS AT BALEARES INTERNATIONAL COLLEGE. [online] Available at: https://balearesint.net/news/2019/exam-results-at-baleares-international-college [Accessed 26 Nov. 2019].<br>
-4. Docs.scipy.org. (2019). numpy.concatenate — NumPy v1.17 Manual. [online] Available at: https://docs.scipy.org/doc/numpy/reference/generated/numpy.concatenate.html [Accessed 27 Nov. 2019].<br>
-5. Docs.scipy.org. (2019). numpy.random.uniform — NumPy v1.15 Manual. [online] Available at: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.uniform.html [Accessed 27 Nov. 2019].<br>
-6. Lagrange.univ-lyon1.fr. (2019). numpy.vectorize — NumPy v1.11 Manual. [online] Available at: http://lagrange.univ-lyon1.fr/docs/numpy/1.11.0/reference/generated/numpy.vectorize.html [Accessed 27 Nov. 2019].<br>
-7. GeeksforGeeks. (2019). Python String | replace() - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/python-string-replace/ [Accessed 27 Nov. 2019].<br>
-8. W3schools.com. (2019). Python Conditions. [online] Available at: https://www.w3schools.com/python/python_conditions.asp [Accessed 27 Nov. 2019].<br>
-9. GeeksforGeeks. (2019). Different ways to create Pandas Dataframe - GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/ [Accessed 27 Nov. 2019].<br>
-10. Cso.ie. (2019). Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-wamii/womenandmeninireland2016/education/ [Accessed 4 Dec. 2019].<br>
-11. Cso.ie. (2019). Level of Education - CSO - Central Statistics Office. [online] Available at: https://www.cso.ie/en/releasesandpublications/ep/p-cp10esil/p10esil/le/ [Accessed 4 Dec. 2019].<br>
-12. Nelson, V. (2019). Is Your College Student Investing Enough Time Studying?. [online] College Parent Central. Available at: https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/ [Accessed 4 Dec. 2019].<br>
-13. Higher Education Authority. (2019). Student Numbers in Ireland Top 225,000 | Higher Education Authority. [online] Available at: https://hea.ie/2018/01/31/student-numbers-in-ireland-top-225000/ [Accessed 8 Dec. 2019].<br>
-</div>
-<hr>
